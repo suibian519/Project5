@@ -1,0 +1,1885 @@
+
+
+Please distribute these procedures to the Northern Customer Service teams and explain to them the importance of collecting our transportation revenues on time.  If they need further clarification or have questions, please give me a call.
+
+Rick
+
+
+See below regarding PJM West market trials.
+
+-----
+
+
+Phil Gote of NYISO called.  They have an application from ENA to participate in the "Virtual Bidding Markets", which I expect we are not going to do for either EES or EPMI.  Please let me know so they can close out the application.  Thanks.
+
+
+Bernice,
+I added the unique 4 digit Data codes to column T of the attached spreadsheets.
+Let me know if there is anything else you need from me.
+
+
+The location for the Options session on Monday at 1:00 has been changed to ECS05990.
+
+Dave
+
+
+Please note that the EnronOnline Phase 2 training sessions scheduled for
+Wednesday and Thursday of this week have been rescheduled to ensure that the
+training sessions include both the new website and the new Stack Manager
+functionality for Price Limit Orders.
+
+The rescheduled dates are as follows:
+
+
+Houston
+
+Session 1 - Tuesday, Sept. 5 3:00 EB568.
+Session 2 - Thursday, Sept. 7 4:00 EB568
+
+
+All Other Offices
+
+Please contact Tammie Schoppe at 713 853 4220 to book a session. Note that
+sessions for European traders will be announced separately.
+
+
+If you have any questions about the above, please contact Dave Samuels at 713
+853 6931 or myself at 713 853 1861.
+
+
+The Enron Basketball Association is hosting a full court "five on five"
+tournament on September 16, 2000 from 8:00 a.m. untill 12:00 noon at Lutheran
+North High School near the Loop 610 north and Shepherd.
+
+You will be able to enter an entire team or enter as an individual and be
+placed on a team.
+
+If you are interested in participating, please contact one of the following
+people prior to September 7th:
+Jamie Lynn  ext.  3-9515
+Rick Dietz   ext.  3-5691
+Steve Kleb  ext. 3-3959
+
+We will have a team captain's meeting on September 8th to discuss the
+tournament rules and prizes.  We plan to limit the tournament to eight teams,
+so please sign up soon to join in on the fun.  There is no entry fee for
+Enron Basketball Association Members.
+
+Thanks,
+
+Jamie Lynn, President
+Enron Basketball Association
+
+
+Dear Colleagues,
+
+We know you have many questions about your new benefits plan, payroll issues and other changes that will occur over the next few weeks. Human Resources and Communications are preparing a thorough Q&A, which we will send to you tomorrow and will regularly update as more information is available.
+
+Meanwhile, please read the announcement below from Security about how you can obtain a new UBS Warburg access card that will allow you to enter our new office space after Friday.
+
+I am confident that you share my enthusiasm about our new opportunity.  We look forward to working along side each of you in the coming days.
+
+David Oxley
+Head, Human Resources
+____________________________________________________________________
+
+Access Cards
+
+There will be a two-day transition for the new UBS Warburg access cards. Beginning Monday, February 11, access to the 5th and 6th floors of Enron Center South will require these new cards. UBS Warburg access cards can be picked up from 7 a.m. to 7 p.m. at the reception area on the 5th floor of Enron Center South on Thursday, February 7th ; Friday, February 8th ; and Monday, February 11. Enron Security will produce new access cards with existing photographs, then simultaneously issue the new and collect the old cards. Employees without UBS Warburg cards will be allowed into the Enron Center South building on Monday but will have to collect their new cards as soon as possible to gain access to the 5th and 6th floors.
+
+Employees who fail to collect their new cards by 7 p.m. Monday will be required to contact Enron Security's general information number at 713-853-5360 to arrange to pick them up.
+
+There will be security staff available at the pick up point on ECS 5 to help with any problems you might have.
+
+It is suggested employees wear their access cards at all times while on the premise.
+
+Accessible Areas - The new cards will allow UBS-W employees to enter:
+5th & 6th floors and Plaza area of Enron Center South ,
+The Sky Ring
+Body Shop, Enron Center North Plaza and therefore access the Credit Union and Cafeteria from either building.
+
+Restricted Areas - Employees must submit to Enron Security a Restricted Access Request form (available by calling 713 8535360 ) and signed by Bob McAuliffe (713-853-7468) to enter:
+Enron Center South, 8th and 9th floors
+Enron Center North, 22nd and 34th floor
+Ardmore Data Center.
+
+Employees staying with the Enron estate while visa and other issues are completed - Employees in this group who are on assignment arrangements to UBS-W will be issued a regular access card - available in the same way as other new UBS-W employees.
+
+Estate employees who are working with UBS-W on transition issues  - If they will be based in UBS-W office space they should talk to their UBS-W counterpart for approval and then UBSW HR for the issue of a UBS-W contractor card (in addition to their regular Enron badge).
+
+
+There are currently three Southeast curves being marked:
+R3 - Serc
+R3A - Florida/Georgia Border
+R3C - Into FRCC
+When trading at one of these points please enter the deals as Eastern
+Prevailing Time.  Peak = HE 0800 to HE 2300.
+We will change all deals that are live in the system as of last night.  If
+you have any questions, please give myself or Mitzie Scott a call.
+
+
+The lists have been moved to o/common/pwrmarketing so they are accessible for people in both Houston and Portland.  Please let me know if you have not been granted access.
+
+
+We have reached $100 Billion. Please come to Jay's office at 3:30 to receive
+a small gift.
+
+If you work with the Valtech (Mike's group) or Luminant people (Chris'
+group), please ensure they know that they are invited.
+
+Thanks,
+
+Dave
+
+
+FYI
+
+-----
+
+
+To alert you to another item that may arise:  Some industrials have air
+permits that restrict them to running for self-supply backup generation
+only.  In such case, the air permit may have to be amended by the industrial
+before it can sell to the grid.  Feel free to call upon Gov't Affairs if you
+have a question about this.
+
+Christi L Nicolay
+05/01/2001 05:28 AM
+
+
+It is not necessary.    Other than Tracy, he would be the only one of the accounting and finance people there and Stan is trying to limit the attendance to the group necessary for the discussions.
+
+-----
+
+
+Please remind everyone that works for you that the book EPMI-SOUTHEAST is no longer in use.  No transactions should be entered with this book.
+
+Thanks,
+Stacey
+
+
+robin thinks it would be easier if I forwarded the attachment.  Seems a little too easy for me.
+
+-----
+
+
+Ava,
+Commencing with the August 15 pay period, please start coding 100% of Amy Milligan's time to work order E002494.03.  This is according to our payout for the Citizens/EAMR agreement.  Continue to use this methodology until further notice.
+
+If you have any questions, please advise.
+
+Thanks,
+Donna
+
+
+Cheryl,
+The risk management group will be taking over the duties from the controls group as far as setting up new books.  I have attached five book requests that need to be set up for Netco.  Once these are set up can you please call me so I can tell Cecilia.  I will also need the Global ID # to give to EOL for their needs.
+Thanks,
+
+
+Please keep this to yourself.
+
+Sally Beck will meet with you guys this week about having logistic leads for your respective regions reporting to you'all.
+
+Let me know how it goes.
+
+Lavo
+
+
+Hi all.  Stacy and I have finally moved to 16.  Since so many people were out or swamped this week, I didn't get to say a proper goodbye so thought I would write one.  I enjoyed being your neighbor and already miss all of you.
+
+Have a Happy Thanksgiving!
+
+Kelly
+
+
+You will find your book names on the attached spreadsheet.
+
+KK
+
+
+The August issue of Gas Flows looks at the short term natural gas prices and forecasted demand.
+
+
+Rita Hartfield
+Phone:  713-853-5854
+Fax:  713-646-4702
+Cell:  713-504-5428
+Rita.Hartfield@enron.com
+
+
+The attached document should complement the documents sent earlier by Chris Calger.   Hopefully, the combination of the two will provide some organization and focus at our 9:30 am meeting on Wednesday morning to discuss the "NETCO" Start-up initiatives.
+
+
+March 31, 2001 is my last day at Enron.  My years at Enron has been a very
+exciting and challenging period in my life.  Nevertheless, I,m very excited
+to be moving on to new things as well.  I shall miss many of the good people
+there that I have had the honor to work with.  As of the beginning of April
+my Enron address will be invalid, please contact me using the below added
+means.
+
+Tom Delaney
+1929 E. Seminole Dr.
+Phoenix, Arizona 85022
+TomDelaneyAZ@aol.com
+602-321-5017
+
+
+Hello...
+Despite my thoughts, you like baseball.   So the question is do you like art
+(as in musuems)  ?
+I'm leaning towards yes but don't know for sure.
+
+
+We are getting ready for the launch of "NetcoOnline".
+
+We have been preparing new documentation, a refreshed site design and cleaned products to reflect our Gas and Power focus.
+
+Our planned Re-Launch timetable is as follows:
+
+
+Week of Jan 14:
+
+Upon approval by the new buyer of the PA and ETA formats, we will contact our Top 50 customers and send them copies of the final PA and ETA forms with the new Buyer's name filled in. During this week, we will be working hard to get as many of the PA's returned as possible. Once we have an approved PA, we can send the customer their new User ID, which will allow them to start trading on the day we launch "NetCoOnline".
+
+A Splash page will be available within two business days of knowing our new company name, on a web page reached via an automatic redirect from www.enrononline.com. This page will tell customers about the pending launch of "NetCoOnline" and provide links to the PA and Registration screens and also to the User Admin screens, which will allow customer Master Users to start setting up their Subusers.
+
+A Press Release will be issued which will include the planned launch date of "NetcoOnline"
+
+Week of Jan. 21:
+
+If all goes well, "NetcoOnline" will be launched on Tuesday, January 22, with at least financial products (timing for gas physical and power physical to be determined according to regulatory issues).
+
+We will send out a mass mailing to approx. 3,000 individuals at 450 companies inviting them to sign up for NetcoOnline. Included in the package will be a simple brochure, copies of the PA and ETA and a list of Frequently Asked Questions.
+
+General Terms and Conditions (GTC's) will be available online and must be accepted online before a company can start to trade a particular commodity.
+
+Trading/Origination Coordination
+
+We will shortly be sending you an invitation to join a meeting in which we will be discussing launch plans in more detail and looking for people to help in contacting customers on our Top 50 list. Although we have a dedicated EnronOnline marketing team, we would appreciate assistance from traders and originators who have strong relationships with our customers and can assist in getting signed PA's returned to us.
+
+If you have any questions please contact Bob Shults (30397) or Dave Forster (31861).
+
+
+Attached below is a copy of the meeting notes from the Field UAF meeting.
+
+-----
+
+
+Hi all,
+We have updated the PSIM model. The current version can handle more realistic
+operational constraints by selecting "Semi Optimal Dispatch" toggle for Dispatch
+Mode. This dispatch mode considers minimum up hours, minimum down hours,
+ramp-up hours, start up cost, fuel switching cost, forward looking within a
+user-specified period of time. It also allows user to enter their estimate of ISO
+curtailment on their generation capacity by month in "Asset" page.
+
+help files in one directory of your choice.
+
+
+Alex
+
+
+Hi everyone,
+We have another Brown Bag Lunch on Option Pricing this Friday, June 8, 12 noon at 19C2.
+
+Sevil will demonstrate PJM Bid Profiler,  a tool or an application that is used by some of the
+North East traders to look at unit specific energy bids in daily auction of PJM and NePool.
+This tool was created by using Delphi and Perl (database programming languages).
+
+Come and enjoy it.
+
+Best,
+Zimin, Alex
+
+
+If you have information to complement or complete what is here, please let me know.
+
+-----
+
+
+I want to move forward with scheduling the initial meeting of the Operational Risk Management task force.  How does Tuesday, October 16th and the afternoon of Thursday, October 18th look for everyone?  Please let me know your schedule for both of these dates.  Most of the task force members have been identified, with the exception of those from GRMO and IT.  Sally Beck will identify representatives from these two areas.  I would also expect that other individuals may be consulted from time to time as additional expertise or resources or required.
+
+I intend to schedule a two-hour block of time for this meeting.  The agenda will include, at a minimum,  the following topics:
+
+Definition of Operational Risk for  Enron - What's in and What's Out
+Preliminary Goals for Operational Risk Management (to be refined by the group)
+Develop Common Language
+Identify Framework for Monitoring Risk
+Role of this task force  - Strategy
+Set common objectives for implementation this year and a look forward to 2002
+Current Initiatives
+Communications Plan
+Open Discussion - Other Ideas from the group
+- Suggestions re other groups/individuals to include on the task force
+
+
+I am excited about leading this initiative for Enron.  We have a unique opportunity to define operational risk measurement for Enron, develop reporting guidelines, and provide qualitative assessments of operational risk, all of which will be considered during the risk capital allocation process.   But most importantly, we can identify ways to mitigate Enron's exposure to operational risk.  Please call if you would like to discuss any of the above prior to the meeting.
+
+Thanks,
+Wanda Curry
+
+
+Dari,
+
+Listed below are the volumes from plant PTR and NNG calculated PTR based on inlet/outlet measurement for September 12 - 17.  The Plant PTR values were obtained from a letter from ONEOK  to Harry Woodson dated November 1, 2001.  This information may help in determining the settlement volume for this time period.
+
+
+Date		Plant PTR		NNG PTR		Difference
+9/12/2001	88,335			90,910			2,575
+9/13/2001	92,175			95,968			3,793
+9/14/2001	93,525			96,151			2,626
+9/15/2001	95,422			98,994			3,572
+9/16/2001	96,881			98,783			1,902
+9/17/2001	92,584			95,365			2,781
+TOTAL	          17,249
+
+-----
+
+
+http://www.skytel.com/
+
+
+TFS Brokers have signed an LOI to license Broker Client for NA natural gas.  Please give Allen Kurzer 6 guest ids while we work on the agreements.  Allan's email is akurzer@tfsbrokers.com
+
+All transactions executed on Broker Client will be a zero brokerage.
+
+Call with any questions.
+
+Bob Shults
+EnronOnline LLC
+Houston, Texas 77002-7361
+713 853-0397
+713 825-6372 cell
+713 646-2126
+bob.shults@enron.com
+
+
+Hi all,
+The scheduled Wednesday (Nov. 8) presentation has to be cancelled.  Even
+though in his earlier message
+Mike said Wednesday is ok, now they will have problem sending people.
+I will try to reschedule the presentation to a later date.
+
+
+---------------------- 
+
+
+The following individuals are scheduled to move September 27th (Thursday).  Please have your boxes and equipment labeled by 5:30 p.m.
+You will receive a packet on the day of your move from the move team that contains information pertinent to your move.  Be sure to use the
+preprinted colored labels to identify all items included in your move.  A diagram is included for you to specify how you would like
+your new desktop arranged.  Please let me know if you have any concerns or questions.  Good Luck!  Donna
+
+Floor 39		Phone 	From	To			Printers	To	Comments
+Schoolcraft, Darrell	1	34299	4120J	3971			4135g	3969a	etsmarketservicesj
+Kowalke, Terry	2	36403	4120G	3972
+Giambrone, Laura	3	36725	4135G	3975
+Minter, Tracy	4	37309	4135H	3979
+Mulligan, Amy	5	30439	4135J	3973			4110	3963a	etsmarketservicesl
+McEvoy, Christine	6	37303	4135K	3976
+Hernandez, Bert	7	35742	4135M	3978
+Miller, Chris	8	54706	4135F	3977					dual phone Beverly Miller 37416
+Ward, Linda	9	37411	4135E	3974
+Copier							4125	3969a	Narrow walkway or 3963a
+
+
+Please forward this note to the Northern and Transwestern customer teams to insure they know what to do with any physical checks that may come addressed to Gas Logistics for the payment of transportation services or the settlement of imbalances.
+
+Every day before lunch time, Josh will stop by and pick up any checks received by Gas Logistics and deliver them to Tracy Geaccone for timely delivery to Treasury.
+
+Rick
+
+-----
+
+
+Yes, I'll ask her, but I also know someone else that sings at weddings professionally!  Do you know what song?
+
+
+EnronOnline/NetCoOnline status update:
+- "NetCoOnline" will be distinct from EnronOnline, with much the same functionality and a refreshed look.
+- We will carry data to support the same gas and power products as were on EnronOnline. Please contact us if you will need different products from what was on EnronOnline.
+- We have prepared a list of top customers in CDN and US Gas and Power (copy attached), which we will be using as a guide in chasing signed Password Applications.
+- To speed the registration process, top customers will be preloaded into the system for activation as soon as we receive their Password Application.
+- We are intending to use a simple, online GTC, which can be superceded by a negotiated Master Agreement, as with EnronOnline.
+- Internal trader names have been circulated to each desk head for approval.
+Dave
+
+-----
+
+
+PSim meeting has been rescheduled to start at 9:30 am, same location.
+
+
+Dear everyone,
+
+We understand the as members of Enron Research group, all of us are working
+on very interesting projects, some of which are ground-breaking, and we all
+keep a very keen mind on any development of new technology.  We also find
+out, through our own experience, that at this age of information explosion,
+it becomes more and more difficult to have enough time and energy to keep
+abreast with most of the exciting stuff taking place in this department, let
+alone in the industry.  It is also our personal experience that many a
+project we are working on has partially been attempted by other members of
+this group.
+
+As a remedy, we propose that the research group start an informal brown bag
+lunch group meeting, once every two weeks on Friday, for about 50 minutes.
+It is hoped that it will provide a forum for us to facilitate with new
+technology and development, as well as with each other,s work, so that we do
+not have to reinvent the wheels.
+
+We envision the following: In this meeting (or seminar), each one of us will
+take turns to make presentations to the group. The topics could range from
+theoretical consideration to practical implementation, be it option pricing,
+process modelling, insurance issue, or Monte Carlo simulation, or anything
+one finds fascinating.  The presentation material could be papers you have
+been reading recently, projects you are working on,  some problem that
+bothers you, or an idea that is fascinating. You  choose your own
+presentation style.  It could be
+everything-you-always-wanted-to-know-but-were-afraid-to-ask, hand waving
+style, or it can involve nitty-gritty, detailed derivations, anyway a style
+that suits you and the topic.  Or it can simply be a dry-run for your
+presentation at the next Risk Conference.  Zimin and Alex will take upon the
+responsibility of organizing the seminar.
+
+We hope the seminar will be up and running in two-three weeks. For that
+purpose your support will be greatly appreciated. Please let either Zimin or
+Alex know if you are interested in giving a presentation to the group and
+provide a tentative schedule. Surely the rest of the group will be happy to
+hear your presentation.
+
+We encourage everyone to participate this brown bag meeting, either to give a
+talk or just sit in.
+
+Alex Huang
+
+
+FYI.
+Claudette and TJ -- Please forward to your groups.  Thanks.
+
+-----
+
+
+A meeting is scheduled for tomorrow, Tuesday, November 28, 2000 with regard
+to the new Trading Track program.
+The meeting will be held in 49C1 from 4:00 - 5:00 p.m.
+
+
+The next options session will be held on Monday, Dec. 3 1:00-2:00 in ECS 05990.
+The topic will be "Options Session 2: Spread Options", covering crack, heat and spark spreads and will include case studies.
+Dave
+
+
+On October 17, 2001 Rockland Electric Company and PJM filed with FERC a joint application for the transfer of operational control from the NYISO to PJM of certain facilities located in Northern New Jersey.  The facilities are the transmission assets in the Eastern Division of Rockland's service territory.  This includes approximately 400 MW of load in Bergen County, NJ and transmission facilities that are already directly interconnected with PJM (note that other Rockland facilities located in NJ, namely those in northern Passaic County and Sussex County (Rockland's Central and Western Divisions respectively) will not be transferred to PJM and will remain under the operational control of the NYISO since these facilities are not directly interconnected with PJM nor with Rockland's Eastern Division).  The filing requests approval of the transfer by November 30, 2001 which would allow PJM to take operational control on February 1, 2002 (the filing does not address what, if any, changes to the operation date might be if FERC does not approve this by Nov 30).  Rockland Electric is a subsidiary of Orange & Rockland Utilities which is a subsidiary of Con Edison.
+
+The transfer adds approximately 400 MW of load and 56,000 customers (mostly residential and commercial) to PJM.  There is no increase in supply, therefore the total load of PJM is increased by 400 MW without any additional resources.  The transmission assets include 138-kV (8.3 miles), 69-kV (35.9 miles) and 35-kV (12.4 miles) transmission lines and 11 substations (the filing includes a detailed description of these assets).
+
+Let me know if you require any additional information.
+
+
+You have been selected to receive either a BlackBerry or iPAQ if you feel it will meet your business needs.
+The BlackBerry provides the following features:
+Fully interactive - write, send, receive and respond to messages right from the unit
+Synchronize all email composed and responded to via your handheld with your desktop email
+Email responses from RIM handhelds appear exactly as if they came from your desktop email
+Access web information including stock quotes, news, travel, sports, entertainment and more
+Coverage that follows you nationwide - with no roaming fees
+The iPAQ pocket PC is
+Simple to use slim and powerful Pocket PC in a leek, elegant design
+Wireless-ready access to email, internet/intranet, and corporate network
+Modular expansion packs for expandability and flexibility
+Industry-leading hand held capabilities for the enterprise
+Extensive software suite
+If you choose the BlackBerry device, it will also replace your current pager.
+For more information or to schedule a preview of these devices call Jean McFarland at 51615. Upon ordering you will
+need to provide Jean McFarland an email with your name and external ID.
+(Your external ID is located in eHRonline.enron.com.  To find it, log in to eHRonline.enron.com.  Select Personal Information, then select other.
+This will bring you to your personal info page.  Your external ID is located in approximately the middle of the page to the right of your SAP ID.)
+Please reply by Wednesday, October 24th.  If you have any questions, don't hesitate to give me a call at 36136.
+
+
+are you sure...have you ever been to bon coupe before
+don't knock it till tou try it
+
+
+John, The email below addresses you question regarding Barton Energy Texas Roundtable.  Please call if you need anything else - 512-320-5957...Jean
+
+-----
+
+
+Robin,
+Darren corrected these.  If you have any questions, please call him....he is the master.  : )
+
+
+-----
+
+
+Congrats on your new job..
+
+
+Enron Recruitment Technology is launching a new, easy to use, web-based Employee Referral Program.
+
+This new site will help you to help Enron find the talent it needs. Referrals are one of the best sources of talent for Enron in terms of quality and fit with Enron's culture. We have found that referrals stay with the company longer and adapt faster than those hired through other sources. This site will help us run a world-class employee referral program with less work and better results.
+
+There are also incentives for you. If you refer a candidate who is hired, you could be eligible to receive a cash reward of up to $5,000.
+
+So help someone accelerate their career, make yourself some money, and help us realize our mission of being the World's No. 1 Company.
+
+Check out the site - http://enron.referrals.com/promo.asp - let us know what you think -- we want to hear from you. This application should make referring easier for you so if you have suggestions that would enhance the program, send us an e-mail (Referral.Station@enron.com) or contact the Referral Station at (713) 345-3254, option 2.
+
+David Oxley
+
+
+Date: Thursday, January 24, 2002
+
+Location: The Houstonian Hotel
+
+Orientation will be split into two sessions and divided by alpha-order. Sessions will run 10am-1pm and 2pm-5pm.
+
+We encourage all of you to attend your designated session as valuable information will be presented, and you will have the opportunity to get answers to your questions.
+
+You will need to bring your Enron ID card or drivers license.
+
+You can speed things up tomorrow by filing in the attached forms - alternatively you can complete them there tomorrow
+
+10am Session   Letters A- K
+
+2pm Session Letters L-Z
+
+
+Registration will be outside of the Juniper Room.
+
+Bus Transportation
+
+Buses will depart from the Java Plaza area on the ground floor of the north building at:
+
+First session 				Second session
+8:45am-9am				12:45pm-1pm
+
+
+Attached for comments/discussion is the gov't affairs' draft proposal for an
+Enron model for RTOs.  This includes the flowgate transmission rights model.
+We are also working on a new open access tariff based on this model.  RTO
+proposals are due to FERC 10/15.   Thanks.
+
+
+I believe Wabash has also terminated.
+Don,
+As you know, we had a meeting like this the week prior to Christmas and had an accurate list at that time.   Our group can do nothing about delays between actual termination notification by the counterparty and communication to trading that termination has occurred.   I think the meeting is warranted, however, we are not going to completely eliminate the timing issues.
+I will see you on Wednesday at 2:00 pm.
+
+-----
+
+
+FYI.   Looks like PIRA will be releasing a bearish material balance and 02 gas price outlook soon.
+
+-----
+
+
+Thanks for taking me in last night.  Sorry about being drunk and stinky.
+My cab, that we called at 6:10, showed up at 7:02.  I was so pissed.
+
+
+FYI.  Please let me know if this should be forwarded to someone in ENA Canada.  Thanks.
+
+-----
+
+
+Dana,
+
+Here are the values of the annuities in the book as of 12/18/2001.  These annuities represent amounts UI paid to Enron for the specified PPA's taken on during the transaction.
+
+Stacey
+
+Deal #		Description			Amount
+277987		Bridgeport/RESCO from UI	$132,435,059
+277854		Derby Hydro pmt from UI		$      432,504
+277816		Shelton	Landfill pmt from UI	$    1,271,462
+
+
+The following list represents other values associated with Resco, Derby and Shelton.
+
+
+Deal #		Description			Amount
+277987		Resco Deal			$(139,333,170)
+257449.2	Receipt of capacity Resco	$    3,889,708
+255034		Longs - Derby Hydro		$        (29,107)
+257449.4	Receipt of capacity Shelton	$         49,488
+
+I have also attached a file with UI current deal numbers and comments attached to those deals, thought it might help.
+
+Stacey
+
+
+The HoustonStreet Price Posting Agreement has been terminated.  Please do not have any conversations with HoustonStreet or discuss the status of the agreement to any external parties.  All calls from HoustonStreet should be forwarded to me.
+
+Bob Shults
+EnronOnline LLC
+Houston, Texas 77002-7361
+713 853-0397
+713 825-6372 cell
+713 646-2126
+bob.shults@enron.com
+
+
+Hey Sugar Bear!
+
+
+I was just thinking about you and was hoping that everything is going okay
+for you.  I constantly keep you in prayer regarding your situation.   How's
+Erika doing?
+
+You missed church Sunday when they forceably removed one of the guys (aaron
+Burr) from the church.  You remember he was the one that used to sit on the
+front row and get happy alllllllllll the time.  You remember him, anyway they
+hauled his tail out of there.  It was terrible to see someone hauled from the
+church, not matter what the situation is.
+
+Oh well, take care, and call me if we need to talk!!!!
+
+
+My brother was coming back from London to go so I went out and paid a fortune
+from a scalper for two....
+
+
+I really do appreciate it though..
+
+
+I would like to get you all set up with the RAC website (icon above).  This will enable you to see your daily VaR, drill down to VaR by risk type, by month and run VaR scenarios.
+
+This is where we pull in our information for the VaR report we publish each morning, and with this you won't have to wait for us to publish before you can see the numbers.
+
+Everyone has been granted access to the east desk VaR and some of you are already set up with your defaults on the website.
+
+For those who aren't................
+
+Copy this icon to your desktop
+Once you enter the site (rac.enron.com) click on "Market Details" on the bottom of the list on the left
+The top left box (VaR) will be where you will see the numbers each day
+"Edit" to pick your names
+
+below are the names listed for the east desk (this will show you the total east var and break it down by trader)...identical to what we have been publishing
+
+S_NEAL
+C_AMES
+BRAWNER
+C_GERMANY
+J_HODGE
+J_HODGE-VNG
+P_KEAVEY
+B_MCKAY
+J_MCKAY2
+S_PEREIRA
+V_PIMENOV
+A_RING
+J_TOWNSEND
+V_VERSEN
+LAVORATO-EAST
+
+Once everyone is set up we will stop publishing the VAR in the morning.
+
+Please ask me or your book admin. if you have any questions.
+
+Thanks
+
+Kam
+
+
+I plan on taking vacation October 4, 5, 8,9 10, 11, and 12. This will finish my vacation for the year. thanks. sj
+
+
+Just sitting around.
+
+
+A heads up for you gas folks that Enron will be on ComEd's side against Dynegy on this power issue at
+FERC, since EES designates Firm LD contracts as sources on ComEd's network transmission system (Dynegy wants ComEd to only allow "capacity" contracts to be used).  We plan to file the Enron response on Friday.
+
+-----
+
+
+It sounds like I need to clafify my plans for trading and risk management of
+power in Ontario.
+
+1.  Garrett is in Toronto and should be doing everything possible to try to
+understand all the ins and outs of the Ontario Power Market including
+building forward curves.  He has dual reporting to Paul Devries (head of the
+Enron's Toronto operation) and Dana Davies (head of ENA power trading for the
+Northeast U.S.).  Dana has ultimate risk management responsibility for
+Ontario.
+
+2.  My current opinion is that we should trade Ontario out of the Toronto
+office with risk management responsibilities rolling into Dana.  This could
+always change in the future if it doesn't make sense.
+
+3.  John Mckay, although he has been helping Bill out, will ultimately have
+no power trading responsibilities.
+
+4.  Tom May is the cash trader in N.Y. reporting to Dana.  I expect us to use
+Tom's expertise with respect to Ontario to build up our competency there,
+however, Toms' main role will be N.Y.
+
+5.  Garrett should spend some time (probably soon) in Houston getting to know
+the people and the technical resources available to him.
+
+If anyone has any questions concerns please give me a call.
+
+John
+
+
+Here is the updated list.
+Thanks
+
+-----
+
+
+Diane and Jeff -- I am going to be on vacation, so please coordinate the
+volumes, and California percentages with Sarah Novosel  202-466-9160.  Thanks.
+
+Diane H Cook
+12/12/2000 03:10 PM
+
+
+Password Deletion
+
+It has been noted that many users have passwords which match or are similar
+to their User ID's for internal EnronOnline applications (Stack Manager,
+Product Manager, EOL Reports).
+
+This is a significant security concern. Therefore, there will be a sweep of
+ID's and passwords at the end of the day on Thursday, April 5. Any User ID's
+which have passwords similar to the User ID will be subject to deletion.
+
+Changing Your Password
+
+Passwords can be changed in either the Stack Manager or in EOL Reports.
+
+To change your password in the Stack Manager, once logged on, go to toolbar &
+select "Help" and then select "Change Password".
+The system will request you to enter your NEW password twice.
+
+To change your passsword in EOL Reports, open the Reports application, log
+in, select "Options" and "Change Password".The system will request you to
+enter your NEW password twice. Please note that the password change
+functionality within the Reports application is new. If it does not appear on
+your menu and you are running on a standalone machine, you will need to
+logout at the windows level and then login again to receive the updated
+version.
+
+If you have any questions, please call the EnronOnline Help Desk (Houston:
+713 853 4357,  London: + 44 20 7783 7783)
+
+Thank you for your assistance in preserving appropriate security.
+
+Dave
+
+
+The August issue of Short Circuits looks at the transmission grid and the largest investor owned utility holding companies.
+
+
+Rita Hartfield
+Phone:  713-853-5854
+Fax:  713-646-4702
+Cell:  713-504-5428
+Rita.Hartfield@enron.com
+
+
+The lady's name is Charlene Jackson.  I don't know here, but give her a call
+and check it out.  See you Sunday!
+
+
+done
+
+-----
+
+
+Please note that with the authorization below, interconnection issues with
+the attached utility still need to be addressed.  (This includes agreement,
+queue, facilities if needed, etc.)  Call us if you need assistance.  Thanks.
+
+
+As a follow up to our meeting, attached is the list of 37 counterparties with their associated limits for simulation purposes.
+Regards,
+Stephanie
+3-9283
+
+-----Original Appointment-----
+
+
+Assistance
+
+As always, if you have any problems with any EnronOnline functionality,
+please contact the 24 hour Help Desk (Houston: 713 853 4357, London: +44 (0)
+20 7783 7783, Australia: +61 2 9229 2300).
+
+
+General Feedback
+
+If you have any comments on the new functionality, or suggestions for further
+functionality, please call David Forster on 713 853 1861. If you had
+previously suggested new functionality which didn't make it into this
+release, rest assured that you have not been forgotten - we are working hard
+to improve all elements of EnronOnline and will try to incorporate your
+requests into the next release of the EnronOnline Stack Manager.
+
+
+The report named: East P/L Totals <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=1&report_name=East+P/L+Totals&category_cd=1&category_name=EAST&toc_hide=1&sTV1=1&TV1Exp=Y&current_efct_date=10/30/2001>, published as of 10/30/2001 is now available for viewing on the website.
+(Revision: 2)
+Publisher's Notes:
+Correction: FT-New York and VNG
+
+
+I will be on vacation the week of July 17th through July 21st.  If you have
+any risk questions, please refer them to  Dave Baumbach. If you need to get
+in touch with me you can try my cell phone (713) 504-2666 or (850) 267-4300.
+
+
+A number of parties protested Entergy's Source and Sink filing at FERC based
+on arguments similar to ours (discriminatory treatment of PTP
+customers/Generation only control areas approved by NERC).  As you can see,
+TDUs and utilities joined in on this.:
+
+Dynegy Power Marketing
+Aquila Energy Marketing
+Peco Energy Co.
+Municipal Energy Agency of Miss.; Lafayette Utilities System; and the
+Lousiana Energy and Power Authority (who pointed out that Entergy's proposal
+could,  perhaps, only work in a big, regional system and that Entergy had
+left SPP)
+Coral Power, ELCON and Enron
+VEPCO (who now owns an approved generation only control connected to Entergy
+and TVA.  VEPCO alerts FERC that Entergy already refused transmission with
+a sink at the new control area, even though Entergy asks for a May 22
+effective date.)
+Louisiana Energy Users Group
+Tenaska Power Services
+El Paso Merchant Energy (asks FERC to promote gen. only control areas as
+"hubs" in order to move more toward the gas model)
+
+Finally, ComEd filed comments stating this is an important issue and FERC
+should resolve this before the summer.  ComEd did not take a position on
+whether Entergy's filing was good or bad.  Maybe ComEd's filing will get FERC
+to deny Entergy's request before the summer, rather than setting it for
+hearing!  (There so far are no filings in support of Entergy.)
+
+Let me know if you would like a copy of any of these.
+
+
+I will be on vacation until July 9th. If you need to talk to me, try 605-272-5680. If no answer, try 605-272-5296. Cell phones and pagers don't work too good up there. I will be checking my voice and e:mails in the evenings, probably after 10:00 pm. sj
+
+
+It appears that Shelley will not be flying back to the states until January 4th.  It doesn't look like she will be celebrating New Year's eve in Texas, but, I'm sure it will be one that she will remember for the rest of her life...
+
+Rick
+
+----- 
+
+
+Sorry, I sent the wrong version of the model.
+
+Alex
+
+
+Subject: Access Card Information
+
+Dear Colleagues,
+
+We know you have many questions about your new benefits plan, payroll issues and other changes that will occur over the next few weeks. Human Resources and Communications are preparing a thorough Q&A, which we will send to you tomorrow and will regularly update as more information is available.
+
+Meanwhile, please read the announcement below from Security about how you can obtain a new UBS Warburg access card that will allow you to enter our new office space after Friday.
+
+I am confident that you share my enthusiasm about our new opportunity.  We look forward to working along side each of you in the coming days.
+
+David Oxley
+Human Resources
+____________________________________________________________________
+
+Access Cards
+
+There will be a two-day transition for the new UBS Warburg access cards. Beginning Monday, February 11, access to the 5th and 6th floors of Enron Center South will require these new cards. UBS Warburg access cards can be picked up from 7 a.m. to 7 p.m. at the reception area on the 5th floor of Enron Center South on Thursday, February 7th ; Friday, February 8th ; and Monday, February 11. Enron Security will produce new access cards with existing photographs, then simultaneously issue the new and collect the old cards. Employees without UBS Warburg cards will be allowed into the Enron Center South building on Monday but will have to collect their new cards as soon as possible to gain access to the 5th and 6th floors.
+
+Employees who fail to collect their new cards by 7 p.m. Monday will be required to contact Enron Security's general information number at 713-853-5360 to arrange to pick them up.
+
+There will be security staff available at the pick up point on ECS 5 to help with any problems you might have.
+
+It is suggested employees wear their access cards at all times while on the premise.
+
+Accessible Areas - The new cards will allow UBS-W employees to enter:
+5th & 6th floors and Plaza area of Enron Center South ,
+The Sky Ring
+Body Shop, Enron Center North Plaza and therefore access the Credit Union and Cafeteria from either building.
+
+Restricted Areas - Employees must submit to Enron Security a Restricted Access Request form (available by calling 713 8535360 ) and signed by Bob McAuliffe (713-853-7468) to enter:
+Enron Center South, 8th and 9th floors
+Enron Center North, 22nd and 34th floor
+Ardmore Data Center.
+
+Employees staying with the Enron estate while visa and other issues are completed - Employees in this group who are on assignment arrangements to UBS-W will be issued a regular access card - available in the same way as other new UBS-W employees.
+
+Estate employees who are working with UBS-W on transition issues  - If they will be based in UBS-W office space they should talk to their UBS-W counterpart for approval and then UBSW HR for the issue of a UBS-W contractor card (in addition to their regular Enron badge).
+
+
+Team,  below is prepayment info from Paul Cherry. In addition to the below, AEP (formerly HPL) has a guarantee for payment, thus no prepayment required.  Sheila
+
+-----
+
+
+Jim should call with aphone number so that I don't ave to over there
+
+Please send me an email to let me know
+
+
+Ava--would you please send out the following message to all the GL reps and cc Brad's team.  Thks! Sheila
+
+
+I just spoke with Sharon Mahon and she asked me to tell you hello.  Did you know that she was expecting a baby girl in August?  She's five months pregnant and getting married on this Sunday to
+Tyrone.  Can you believe it?  She seem's happy.
+
+Did Barbara ever talk with my friend about singing at the wedding?  What did she decide?
+
+Talk with you later!
+
+
+I'm happy to take their names off the list, but are we sure this is the right thing to do?
+
+If so should I put any new names in their place?
+
+David
+
+-----
+
+
+I just called my other friend, her name is Renee Lewis and her home number is 281-484-2380.  She has sang the I Believe in You and Me song mnay times before at weddings and she is familar with Kissing You, but said its a really sexy song,  Have Barbara call her because she has alot of ideas.  She's a professional now and she can suggest all kinds of songs.  Take care!
+
+
+Please forward to kevin howard.
+
+-----
+
+
+Pira will be in the office for a power briefing tomorrow at 9:30 in ECS 5990.  The power group said they have a few open seats for the gas group (2-3 per desk).  Please pass this along to the people in your group that you want to attend.
+
+Thanks,
+Chris
+
+-----
+
+
+The meeting will at the most last a little more than an hour or 2.    Nothing special to prepare for.
+
+-----
+
+
+We are continuing work to ensure our new online trading system, UBSWenergy, is ready for launch on the week of Feb. 11, which is the week following the anticipated Enron/UBS Closing Date of Friday, Feb. 8.
+To assist in this process, we are planning an online trading simulation for Thursday, February 7 from  0900 to 1100 (CST). It is planned to include all  traders, originators, mid/back-office staff and IT teams who would normally be involved with electronic trading.
+Purpose of the simulation - The simulation will test our "live" trading environment (restricted to internal access only) and will:
+Test the integrity and functionality of the system and related processes (including credit, risk, legal, operations, etc.)
+Provide an opportunity for traders to verify their products and product setup
+Demonstrate how the trading system and processes work to UBS staff visiting next week
+Nature of the simulation - The simulation will include testing of all processes related to trading and mid/back-office functions:
+Credit, Legal, Risk, Operations, and other groups:
+Profile tests for "external" customers (role-played by Originators)
+Profile tests for internal users (traders, back-office, etc.)
+Data and Process checking as completed transactions flow through Mid/back-Office systems
+Traders and Originators:
+Traders will be managing their individual books and associated products. Although we may be restricted to certain financial products on launch day, both physical and financial will be available during the simulation. Each trader will be asked to manage their individual position and profitability goals for the simulation.
+Originators and others will be asked to play the roles of counterparties. Credit limits, etc. will be tested during the simulation.
+Information Technology:
+Will assist in preparing data on the system for the simulation.
+After the simulation is over, will work with the relevant groups to test the trade-data in various systems and risk books
+Will ensure all simulation data is removed from the system after the simulation is complete.
+Next steps
+Traders and Originators will be contacted prior to simulation day to ensure they have appropriate access to the system.
+Originators will be assigned specific roles. You should expect to receive an email and/or handout on or before Wednesday, Feb. 6.
+UBSWenergy personnel will be meeting with back office personnel over the next several days to ensure everything is in place for the simulation.
+Summary
+This simulation is an important step towards re-launching our trading business. We appreciate the participation of everyone involved as we prepare for the public launch of UBS Warburg Energy and the UBSWenergy trading platform.
+If you have any questions, comments, suggestions, or ideas regarding this simulation, please feel free to contact Bob Shults (30397) or myself (31861).
+
+
+As a follow up to our meeting yesterday, here is a proposed timeline for the simulation which is scheduled for Thursday February 7th between 9:00 am and 11:00 am (Houston time):
+
+Monday February 4th:
+Complete preparation of Simulation Events and scripts
+
+Tuesday February 5th:
+Credit will provide a list of priority counterparties (anticipated to be approved for launch date)
+Online Operations activates all counterparties on priority list in database and inactivates all other counterparties
+Credit uses Profile Manager to provide profiles for approved counterparties
+RAC inputs Sigma Factors into the database for all active Product Types
+Online Operations will issue new application and website User ID's and Passwords to Traders
+Online Operations confirms Product Types and Products are in the database
+Online Operations confirms Online Contracts are in the database
+
+Wednesday February 6th
+Online Operations completes desktop check-ups for all application and website user
+Traders access applications and review products and stack relationships
+Counterparty User ID's and Passwords will be issued to role players
+Credit rolls headroom into online database (evening)
+Online Operations confirms database is set to Simulation scripts
+
+Thursday February 7th
+Simulation Trading 9:00 to 11:00 (Houston time)
+11:00 Emergency shut down of transaction system
+11:00 Simulation feedback
+11:00 - 3:00 process simulation transactions through mid and back office systems
+3:00 - 8:00 Shut down all systems to purge transactions
+Credit rolls headroom into online database
+
+Please contact me if you have any questions or concerns on this.  Please notify me if any of these tasks are not or will not be completed on the day suggested.  Thanks
+
+
+Bob Shults
+EnronOnline LLC
+Houston, Texas 77002-7361
+713 853-0397
+713 825-6372 cell
+713 646-2126 fax
+713 467-6174 home
+bob.shults@enron.com
+rshults@houston.rr.com
+
+
+When I remember to put a new book oif checks in my purse, do you want me to
+make it out to you or give you cash!
+
+
+Enron has two mobile units that are available for placement in customer deals or in pure merchant sites.  These are 22MW, trailer-mounted and are being refurbished/packaged for delivery QIII, 2001.  In general, these units will be high heat rate, high emissions, but are cheap and available.
+
+In order to streamline the process and facilitate information flow, I have asked Jim Buerkle to be responsible for placing these machines into income producing deals in the WSCC.  He will evaluate site alternatives, work with the Enron groups that control these machines and structure the commercial deals.  Please forward any opportunities to Jim.  If these units get placed profitably, we will likely step up to manufacture more units available for Summer 2002.
+
+Regards,
+
+Chris
+
+
+Rod Hayslett
+EB4054
+713-853-6178
+
+
+Attached is a proposed test plan from HoustonStreet for tomorrow.  I have reserved conference room 2712 beginning at 2:30 tomorrow and will escort HoustonStreet onto our floor at 2:30 tomorrow.  They will be allowed to set up machines from 2:30 to 3:00.  At 3:00 we will allow HoustonStreet to discuss their plan prior to our review.
+
+Enron has terminated the price posting agreement and has no obligation to do testing.  We have simply agreed to review their system.
+
+During the review  anyone working with HoustonStreet should refrain from making any comments (positive or negative) concerning the performance of the system.  We will simply take the review under advisement.
+
+All discussions with HoustonStreet should be handled by myself or Savita.
+
+If you have any questions call me on 30397.
+
+-----
+
+
+Jay: Here is the latest site documentation and the site map. Please call me
+at any time if you have questions (cell: 713 562 8678)
+
+Awais/Rahil/Paul: If you have any comments on the text, please let me know.
+Note that this text has been approved by legal (mostly) and we are short on
+time, so text changes will only be made for pressing reasons.
+
+Justin/Mark/Haakon/Jonathan: Changes from last version appear redlined.
+
+
+Thanks,
+
+Dave
+
+
+Thank you very much for the nice gift (and, of course, the $1).   I appreciate you girls putting up with me and doing a great job for the whole floor.
+
+Thanks again.
+
+
+Approved.
+
+
+Rita Hartfield
+Phone:  713-853-5854
+Fax:  713-646-4702
+Cell:  713-504-5428
+Rita.Hartfield@enron.com
+
+
+Larry is moving over to a Gas Controller position in Steve January's group.  Below, Steve mentions Larry's solid field experience. However, I would like to commend him on his ability to pick up the details associated with our monthly flash process, customer accounts meeting, and the various uploads necessary to help our monthly billing process run so smoothly.  Please stop by and wish Larry luck in his new job.
+I am in the process of writing a job replacement justification requisition for Stan's approval and hope to replace his position within a few weeks.
+Unfortunately, "Quotis from Bodnar" does not quite have the same ring as "Quotis from Otis"...
+
+
+-----
+
+
+2 options:
+Either we leave from work and you watch me get a haircut for 20 minutes or...
+I pick you up around 6:30...
+
+
+Attached are the original spreadsheets with additional book requests in yellow.  This should be the end, or close to it, for the Netco gas book requests.  As before, could I get the global id's once you are finished?
+Thanks,
+
+
+FYI
+TJ and Claude -- please forward to your groups.  Thanks.
+
+-----
+
+
+Sorry,
+I forgot to attach the spreadsheet.
+
+-----
+
+
+I do not intend to approve reimbursement by the company for attendance.
+
+-----
+
+
+October's Short Circuits summaries NERC's and PIRA's outlook of the electric market as of October 2001.
+
+
+Rita Hartfield
+Phone:  713-853-5854
+Fax:  713-646-4702
+Cell:  713-504-5428
+Rita.Hartfield@enron.com
+
+
+I would like a consolidated report on all generation projects monitored to date.   My recollection was we had identified approx. 50-75 projects to monitor.
+
+thanks.
+
+-----
+
+
+Would you two be able to attend Shelley's staff meeting for me on Monday, February 11th?  I will be at Alliant Energy in Wisconsin with Lynn Blair and Jodie Floyd to resolve some A/R, measurement and scheduling issues.  Please take notes and pass them along to me on Tuesday.
+
+Rick
+
+
+how was the concert?
+
+
+Cheryl,
+
+Thanks for taking care of these so quickly.
+
+I have reattached the central book request with some additional books.  The blue highlighted "Cent" books were on the original request but were labeled as "FB" and should have been PB as the book name.  I assume you did nothing with those books because there was no id next to it.  Is that correct?
+I corrected them and also added two new books at the bottom.
+
+Thanks again,
+
+Kam
+x3-5781
+
+-----
+
+
+FYI.
+
+TJ and Claudette--Please forward to your groups.  Thanks.
+
+-----
+
+
+Please send tomy direct reports.
+
+While I am out of the officetoday please keep Kevin Howard up to speed on what you see and hear.  He is leading the effort in our areas during this time of stress/crisis for me.
+
+
+I assume each person is taking appropriate action with regard to disabling
+user ID's and/or adjusting credit limits accordingly . . .
+Dave
+
+
+Per voicemail.
+
+-----
+
+
+We are currently testing with Truequote and anticipate that we will go live on Monday June 4th.  Please let me know if you have any issues concerning this immediately.  The following is a timeline for going live:
+
+5/30 - 6/1     Truequote quiet period (no software of hardware changes); Funtionality/stress testing and acceptance
+6/1 evening  Truequote and Enron point to EnronOnline production
+6/1 - 6/3       Nymex gas products live. Final acceptance
+6/4               Live date
+
+
+Bob Shults
+EnronOnline LLC
+Houston, Texas 77002-7361
+713 853-0397
+713 825-6372 cell
+713 646-2126
+bob.shults@enron.com
+
+
+Judy,
+
+I thought I was through, but I'm not.....Can you please send up the the
+following contracts:
+
+Wisconsin Power & Light  96045691
+
+WPS     96001003
+
+Also, if someone in my group has already checked it out and returned to you,
+just tell me who had it and I'll copy off of them (smile!!).
+
+Also, do you have a copy of the GTC.  We have no idea what it is, and we're
+looking for the non-performance language associated with it.
+
+Thanks!
+
+
+The September Short Circuits summarizes installed capacity, demand, and market design information by NERC region.
+
+
+Rita Hartfield
+Phone:  713-853-5854
+Fax:  713-646-4702
+Cell:  713-504-5428
+Rita.Hartfield@enron.com
+
+
+Girl, you know he's lying.  He's a trip, but it was a good sermon.
+
+
+Jeff -- The region of MAIN sent a letter to NERC asking that the NERC
+Security Comm. make a new interpretation about reserving ATC and scheduling
+to a generation control area (since we will have the new Enron control area
+in MAIN within 2 weeks).  MAIN is trying to prohibit us from using our new
+control area as a source or sink.  Attached is Enron's response to NERC and
+Howard Hawks asking the PITF to tell MAIN that this issue has already been
+decided in last year's win over TVA.  A copy of MAIN's letter to NERC is
+being delivered to you today.  Christi Nicolay  37007.
+
+
+I just got back from the eye doctor.  My eye wasn't scratched.  I had a rusty piece of metal in it!  I tore down my garden (which is framed and covered in chicken wire to keep out the critters) on Sunday and a piece of the wire must have lodged in my eye.  I will spare you the gross details of him using a needle to dig this rusty piece of metal out of my eye like a splinter...  It was numb and still hurt.  I won't be in this afternoon.
+
+Rick
+
+
+Attached is the September issue of Gas Flows which addresses natural gas prices & demand and Canadian supply.
+
+
+Hey:
+So I was thinking about your NY problem...I might have an answer.  The site
+http://www.bestfares.com/internet_charts/hotel_internet.htm
+lists cheap hotel specials.  The problem is they won't list them until the
+Wednesday before the weekend.  Check it out though.  They have some
+reasonable deals.
+John
+
+
+Attached is the new site map file for auctions. It has been modified to
+reflect the ordering of the global nav and the removal of the ATA, which is
+no longer needed.
+
+The View/Accept Contract screen will contain text cut which is currently in
+the About Storage Services section (I will modify the text file accordingly
+when received from Haakon).
+
+Note that we are planning on using the same template as represented by the
+Market Info. screen in EnronOnline, although there will be a unique set of
+graphics for each of:
+
+1) The Auctions Home Page
+2) All of the EnBank pages (which will share the same graphic treatment, with
+appropriate title amendments).
+
+
+Dave
+
+
+they forced him to trade on Friday.  I want my money back
+
+-----
+
+
+May as well cancel.
+
+-----
+
+
+There will be a desk head mtg tomorrow, Sunday, at 3:00 on the 33rd floor per Lavorato to discuss positions and strategy.  Please confirm via email.  My cell # is 713 557 3330 if there are any problems.
+
+
+Listed below are the dates for the 2002 UAF meetings.
+
+Southeast UAF mmetings:
+Time 1:30PM - 3:30PM
+Houston Location: EB30C2
+
+January         29th
+February        26th
+March           26th
+April             30th
+May              28th
+June             25th
+July              30th
+August          27th
+September    24th
+October        29th
+November     26th
+
+
+North and Southwest UAF mmetings:
+Time 1:30PM - 3:30PM
+Houston Location: EB30C2
+
+January         30th
+February       27th
+March           27th
+April             1st May
+May              29th
+June             26th
+July              31st
+August         28th
+September    25th
+October        30th
+November     27th
+
+
+Prompt month vol is moving from 60% to 40% cob today...should increase capacity for front month by 50% for anybody who wants them.
+
+
+I received a call from Sarabeth Smith stating that as of 3:00 PM today (July 31) we have a signed agreement with Citizens.  The plant is not expected to come back on line until Thursday or Friday per Darrell.  Amy is coordinating a conference call with Craig Lipke to transition the transaction management to TW.  Darrell will notify Gas Control that we are taking over the monitoring of alarms and set point (flow/pressure) control.  I will coordinate the labor distribution for both Gas Control and Customer Service.  Collectively between the two groups we will be charging out $8,300 per month.
+
+
+Stephanie:
+Please set up Mike Maggi for trding on Intercontinental Exch.
+Thanks,
+John
+
+
+Ok
+
+
+Please review.   Is there a value proposition for us?
+
+-----
+
+
+Almost no notice is needed as long as the Products you intend to use are ones which previously appeared on EnronOnline.
+Please note that Jan. 21 is a holiday, so we are planning on the launch of NetcoOnline happening on Tuesday, Jan. 22.
+Thanks for the info.
+Dave
+
+-----
+
+
+FYI.
+
+-----
+
+
+Please see attached.
+
+
+I know I have been absent from the 2 regularly scheduled meetings on Friday am for the last 2 weeks and it is not going to get a lot better for the next 2 weeks either.   For this I apologize, but I am trying to understand the new expanded world to determine any potential points of integration, if any.    I am going to have Kathy see if there is a time earlier in the week that we might be able to use for direct reports and administrative matters and a separate time for Commercial support reviews.  Please keep the reports flowing  as this is currently my means of keeping up.     I would like for staff meetings to continue, even in my absence for the next 2 weeks.
+
+I am working on some organizational changes, which I am not quite ready to discuss, but they should not impact the majority of you at all.     I will not be replacing me in my old position in ETS, but will be expanding the crew to include the worlds of EGAS, Wind, Azurix, EEOS, Portland (they will be here for most of the next year) etc.     In the meantime if you need to talk to me please have Kathy get you in to my schedule in person or via phone.    I am also in the office nearly everyday, other than tuesday (EOTT staff meetings), by 6:30 am.
+
+
+Rod Hayslett
+EB4054
+713-853-6178
+
+
+FYI - Training dates for PJM West training class.  Note the December 3 date at the Hyatt Regency in Houston.
+
+-----
+
+
+Thane's daughter, Sarah, is in Texas Children's Hospital.  I spoke with Thane this afternoon, Sarah will have surgery tonight.  The surgery is exploratory in nature, as well as repair of her broken leg. She has been in a great deal of pain since last night.
+
+This has been and continues to be a very difficult time for Thane and his wife, Linda. I sent a doll to Sarah, she is three years of age, from the American Girl Collection on behalf of governmental affairs.  Jean
+
+
+I asked everyone for their A/A needs and received very little feedback.  Please respond promptly.
+
+
+Thanks
+
+John
+
+
+The original 12/2001 recap sent out had an error which effected previous months plus December UAF numbers.  The problem occurred when a station was accidentally removed from the pipeline balance setup within PGAS.  The attached Recap has been corrected to include this meter and 2001 UAF does NOT look good for NNG.
+
+Current NNG UAF:
+December:	-0.81%		-1,023,077 DTH
+Year to Date:	-0.39%		-5,155,854 DTH
+
+This makes 8 months in a row of high UAF loss for NNG.
+
+Please try to attend today's UAF to discuss this issue and help put together an action plan to locate and correct problems.
+
+
+Today's Agenda:
+
+
+I am talking to GFI for North America.  GFI originally called us concerning Europe but backed down and didnt want to pay. I will ask again if they want Europe.
+Natsource Europe is in contract discussions with us for Europe and UK Gas and Power.  They asked us to throw in coal and the coal group said no.  I have tried to get them to change their position as this will add liquidity.  Ask them why they do not want Natsource. They pay nothing for executions by Natsource.
+TFS has not been contacted concerning Europe.  Feel free to contact them and try to get a deal.  Call me to discuss.
+
+-----
+
+
+October's Gas Flows incorporates views from CERA and PIRA on near-term natural gas price and demand.
+
+
+Rita Hartfield
+Phone:  713-853-5854
+Fax:  713-646-4702
+Cell:  713-504-5428
+Rita.Hartfield@enron.com
+
+
+Attached is a FERC proforma tariff.  However, each transmission provider will have its own version approved by the Federal Energy Regulatory Commission (FERC) and it could contain substantial changes.  Also, the ISO tariffs are quite different and have numerous other rules.
+
+
+I will not be in today. I am not feeling well - sinus drainage, sore throat, body aches.  If you need me, you can reach me at home at (281) 359-6258.  I will follow up with my group to make sure I have everything covered for today and prepared for tomorrow's Customer Accounts Meetings.
+
+Rick
+
+
+Hi all,
+I have made modifications on the model as requested.  It now handles different
+volatility curves as well as 4 different hour blocks.
+
+Alex
+
+
+See the notice below regarding the next PJM Energy Market Committee (EMC) meeting on Nov 8. I will be on jury duty that day and will be unable to cover the meeting.  The  EMC is the most active (and activist) committee in PJM where most issues and changes to market rules and the tariff are proposed and debated (an agenda has yet to be issued).  I would suggest that we provide coverage of this meeting either in person or conference call.  If you are interested in attending or participating via conference call let me know.
+
+-----
+
+
+Thanks Joe and Sherry. I am also sending this to Jo Williams for consideration. sj
+
+-----
+
+
+EnronOnline Auctions are now live in the Production database, with EnBank
+virtual storage as the first product offering.
+
+There is a new Auctions button on the bottom of the Quotes screen (replaces
+the old Market Info. button). Please look over the site contents and let me
+know if you spot anything which needs to be edited.
+
+For detailed EnBank questions, please refer customers to the EnBank HelpDesk
+at 011 44 (0) 207 783 7700. All media calls concerning EnBank should be
+directed to Jonathan Whitehead: 011 44 (0) 207 783 6534. Media calls
+concerning EnronOnline Auctions within Enron's broader EnronOnline/e-commerce
+strategy will be handled by myself: 001 713 853 1861.
+
+Many thanks to those who have put in long hours to bring EnBank and the new
+auctions site to fruition in record time.
+
+Dave
+
+
+As most of you know, NRG's proposed purchase of two coal plants in Conneticut (UI's territory) was recently cancelled due to regulatory issues at FERC.   The purchase and sale transaction between Wisvest and NRG was originally entered into almost two years ago.   The proposed purchase price of $350 million for 1000 MW of coal was a "bargain price" at the time due to environmental risks that are specific to the state of CT.
+
+Over the past 2-3 years, the State of Conneticut has threatened to have these coal plants shut down due to pollution issues and Wisvest was concerned enough about this risk that they "puked" the plants to NRG for $350/kW in early 2000.   At a minimum, it is expected that $100-150/kW of SCR and/or scrubbers will be required at these facilities to appease the CT regulatory bodies.
+
+My strong view is that, as a practical matter, the plants cannot be shut down or the lights would go out in CT.   The area where the plants are located is quite possibly the most congested area in the entire Eastern Interconnect.   The load pocket is significantly short MW and transmission import capability is inadequate to serve the load in this area.   In a true "locational marginal price" environment, the prices would likely be similar to Zone J in New York   Currently, pricing in NEPOOL is generally socialized with congestion costs spread equally to all loads, regardless of who causes the congestion.
+
+In the recently proposed "single NE RTO" model, it is about 80% certain that the PJM "locational marginal price" market model will be implemented sometime between mid-2003 and mid-2004.   At that point in time, consumers in the congested areas of NEPOOL (in-city Boston and CT) will be exposed to higher energy prices, while consumers in Maine, New Hampshire, and Rhode Island should see lower prices.
+
+Given the facts above, coupled with traditional asset companies too long to show good bids for incremental assets, I think EWS should pursue discussions with Wisvest immediately and attempt to buy these coal plants at what could be extremely favorable economics relative to our forward curve in NEPOOL and our bullish view for relative pricing at the asset "node".
+
+If we could buy these plants for approx $250/kW with $150/kW of environmental upgrades, the resulting "all-in" (depr, fixed & variable O&M, fuel costs, NOx, SO2, capital reserve, interest) 7x24 plant cost would be approx. $34-36/Mwh.    This is lower than our energy only socialized NEPOOL curve.   Additional upside is derived from positive basis, ICAP, ancillary services, emissions allowances, and long term requirements sales to LSE's.
+
+Lavo and Louise - This could be the "Alberta PPA" for 2002.   Lots of "hair" but lots of upside.
+
+Any thoughts?
+
+
+fyi
+
+-----
+
+
+Hey :
+Just wanted to see if you're doing anything tonight...
+Any interest in getting dinner?
+John
+
+
+Thanks
+
+
+Effective today Natsource will have an execute id for www.brokerclient.com which will allow them to execute transaction on EnronOnline for their customers.
+
+The Natsource agreement includes confidentiality language which prohibits discussion of the agreement with others.
+
+Any questions relative to Natsource Agreement should be directed to me at 713 853-0397.
+
+
+See below for PJM West market trial results.
+
+-----
+
+
+Yes, she'snot familiar with the music, but said she would listen to the music and see what she thought, but I have put in a call to my other friend, but I know she would do it if her schedule was open, but she does is professionally, and I know there would be a charge,  I should hear something today from my other friend.
+
+
+Periodically, you will be receiving email notices from Mechelle Atwood requesting response to audit findings for which you were identified as the responsible party.  Please complete the required documentation in a timely manner, as closing out the audit issues is critical to wrapping up the audit process for FY2001.
+
+If you have any questions, please contact Mechelle directly at ext. 54554.
+
+Thanks you for your cooperation and prompt attention to this matter.
+
+
+Cancel me out of lunch and any other meetings tomorrow.
+
+Rod Hayslett
+EB4054
+713-853-6178
+
+
+We will have employment contracts done soon and employment letters to those not getting employment contracts by tommorrow or Saturday.
+
+-----
+
+
+As a result of a smooth launch and market demand, we are accelerating the
+timetable for the launch of several EnronOnline products.
+
+Specifically,  after the launch of U.S. power on Monday, Dec. 13th, we will
+be launching the following:
+
+Wednesday, December 15: US Coal, U.S. Plastics, US Pulp and Paper
+Thursday, December 16: Norwegian Power
+
+Although the legal review has been completed for all of the above, I would
+appreciate it if you would look once more at the products which are relevant
+to your area and confirm that you are happy with them (some of you are
+already in the process of doing so - thank you)
+
+We absolutely want to avoid making changes after launch due to the problems
+associated with changing descriptions on products which have already traded.
+
+The Product Long Descriptions can be seen in the Product Manager by expanding
+the Product Type in the tree to show each of the dependent Products, then
+right-clicking the Product, selecting View and then pressing the View
+Description button which appears on the pop-up window.
+
+Please contact myself or Dale Neuner if you have any comments.
+
+Thanks,
+
+Dave
+
+
+I had sent out an incorrect revision of the agenda for today's UAF meeting.  Attached is a copy of the correct agenda with last months meeting notes.  This agenda also includes the dates for year 2002 UAF meetings.
+
+
+Kenneth
+
+
+Hey,
+Can you add Whalley and/or Andy Zipper to Pedrone's interview schedule.  He
+can come in earlier if necessary.
+
+If you need to talk to him, he is staying at the Omni and his cell number is
+917-699-2222.
+
+John
+
+
+As our business continues to grow and change, Energy Operations is challenged
+daily to ensure best practices throughout all services provided.  We recently
+decided to consolidate the Risk Management, Deal Validation and Operational
+Analysis functions into one group, directed under the management of a
+Business Controller.  I am pleased to announce that Steve Venturatos has
+accepted the role of Business Controller for Texas/Upstream Operations,
+reporting to me.  Additionally, Dave Baumbach has agreed to serve as the Lead
+of the group.  Other additions to the group include Jody Crook, a first year
+analyst, and Ami Chokshi.  Ami will continue to serve as the account manager
+for both Entex and TUFCO.  The attached oranizational chart identifies all
+team members.  Additionally, the Denver trading books will be transitioned
+from Will Kelly (who is assuming the Business Controller role for the East
+region) to our group.  We will also be working with Keith McIver and John
+Peyton to establish risk books for the drilling day rate trading anticipated
+to kick off soon.
+
+Mike Eiben has assumed responsiblities previously managed by Steve Venturatos
+which include Global Contracts and Facilities, System Enhancements and
+Regulatory Reporting.  Clem Cernosek will be joining the Logistics team in a
+trouble shooting capacity.  Jennifer Pattison will be joining Volume
+Management, focused on trouble shooting and UA4.  Both Clem and Jennifer have
+been on the Unify - POPS team.
+
+Please join me in sharing this information with pertinent staff members, and
+in wishing each of these employees success in thier new roles.
+
+
+The first group of trading contracts will go out to 77 companies for a total of 168 counterparties (most companies have multiple entities).  This group obviously does not include everyone, but we have most of our major relationships (and it is the official list that has been submitted to UBS for credit approval.)
+
+The general marketing plan is as follows:
+- Contact all customers this week to tell them about UBS Warburg Energy
+- Get contract/PA packages in front of First Priority counterparties this week
+- Arrange meetings or follow-up calls as appropriate
+- Dave Forster and the ubswenergy.com team will be sending out online PA packages to all parties later this week (so it is important to have contacted all customers)
+- Once the initial wave of contracts is out and review/negotiations are uderway, we will submit a Second Priority list for credit approval
+
+The attached file has all of the First Priority counterparties, along with names for gas, power, online, credit and legal.   Apologies for the imperfect information - it came from several different sources.  In addition, we have columns for describing the type of agreement and its status (not pursuing, incomplete, done).  Please complete and/or edit the attached and forward to either Debra Bailey or Lloyd Will.  If you think you should take the lead on a particular counterparty, call up the other person and work it out!  Progress on this effort will be reviewed during our twice-weekly calls.
+
+
+Fine.
+
+
+Below are contacts if you need help over the weekend with new docs, employee questions, etc.
+Amy Fitzpatrick   Cell:  713-859-6266
+Jeanie Sloan   Cell:  713-553-7049
+
+I need to know by noon on Sunday who is in and who is not.   For people not committing, try to get there contracts back so we can re-allocate $'s as necessary.   All contracts signed by Sunday at noon will get a $2500 check from me personally.   I encourage all of you to contribute to the fund to entice early signing.  If you need new docs printed, please contact Amy or Jeanie at above #'s or call me.
+
+Harry - You and your guys situation is different, therefore, ignore the Sunday issue.   However, please contact Amy and/or Jeanie to generate contracts for Steve and Rob (use the $'s we talked about).
+
+List of key employees who have not signed:
+
+Gupta
+Suarez
+Carson
+Broderick
+Misra
+Wang
+Stalford
+Ballato
+Imai
+
+The ERCOT desk is almost done (1 more to go) - kudos to Doug
+
+UBS CONTACTS
+
+IN HOUSTON WEEKEND OF JANUARY 19/20
+Position        Home    Work    Cell    Other
+Anderson, Mimi  Data Administration     203-353-9121    203-719-6448
+Brown, Anthony  All Issues      212-253-6313    212-821-2346    646-244-6311
+Galasso, Jill   Data Administration     203-277-2067    203-719-3614
+Lee, Jenai      Data Manager    718-788-8468    212-821-6073
+
+KEY CONTACTS WEEKEND OF JANUARY 19/20
+Position        Home    Work    Cell    Other
+Bliss, Melissa  Front Office    203-655-4678    203-719-6358    203-253-4339
+Eastwick, Jacqueline    Front Office    203-966-9294    203-719-4575
+Martin, Audrey  Front Office    212-423-5764    203-719-4699    917-468-0237    860-824-7707
+Luecke, Susan   Operations      203-602-3332    203-719-6916    914-830-4528
+Ciliberto, David        IT      212-253-5477    212-713-3276    917-319-5360
+Reichman, Peter FCD/Legal       914-939-4161    203-719-0276    917-417-8914
+Knight, Linda   CRM/HR/Market Risk      203-438-5397    203-719-4681    917-848-7251
+
+KEY SPECIALIST CONTACTS WEEKEND OF JANUARY 19/20
+Position        Home    Work    Cell    Other
+Raman, Kumar    Immigration             212-891-7515
+Digiacomo, Larry        Reloction/Int'l Assignees       203-248-4560    203-719-4686    203-696-8646
+Hart, Tracy     Compensation Policies   203-358-9687    203-719-4688
+Raimondi, Vince Benefits        203-563-0535    203-719-0656    203-563-0535
+
+HOUSTONIAN HOTEL        713-680-2626
+War Room - Magnolia Room
+
+
+Same here!  Great presentation!
+
+-----
+
+
+Okay, I'll send it via the mail.  I like your new hair style, it looks good!
+
+
+On Monday, Enron filed these responses to MISO filings at FERC:
+
+-- Protested MISO's proposed $1000 penalty on accepted requests that are subsequently withdrawn by the customer
+-- Protested another in the string of MISO proposed changes to its OATT for 12/15/01 start date:  for example, MISO included additional scheduling penalties and removed the ability to settle losses financially
+--Commented on MISO's proposed market monitor plan
+
+The pleadings are attached below.
+
+
+You go girl, you're in my prayers!
+
+
+I really appreciate your assistance in reviewing the NNG contract files, pulling out and making copies of all letter agreements for our most recent data request from Dynegy.  I understand the coordination this required and the tight time constraint that you worked under (during bid week and the preliminary reservation billing cycle) and am pleased with your sense of urgency.
+
+Thank you for the effort and, as a result, now have complete binders of all letter agreements that are in Houston.  When I am in Omaha on Wednesday, I will ask Dari if she has any letter agreements in her office that may not have been forwarded on to Houston.  If she does, I will make sure we receive copies of these agreements.
+
+Rick
+
+-----
+
+
+For those in Houston I expect some help!
+
+-----
+
+
+Shelley,  Tim is looking into these balances.  Tejas has an imbalance we're checking into that developed in December for 211K.  It appears estimates were used for actual flow & we don't have a lot of confidence that that much gas actually flowed.  Mike Wagner tells me the check meter is not working and he has had no luck getting anyone to fix it.  Tim is following up w/Tejas to find out what the actual flow for Dec was.  Also, we're currently working trying to take some of the balances in payback to cover FPL working off their imbalance during the outages we have in process.  We're implementing a process with the team to ensure scheduled quantites are tied out each month so Tim & Cynthia can concentrate on actual flow volumes and reconciliation of any old unreconciled imbalances.  Sheila
+
+-----
+
+
+It is important that our business unit has a consistent, documented approach to spending to maximize our return on every dollar spent.  Effective today, Enron Wholesale Services will follow the attached spend and approval guidelines for the iBuyit eProcurement application.  Please review these new guidelines carefully and modify your purchase activities accordingly.
+
+Many of you currently use iBuyit eProcurement to purchase IT hardware, and others will begin to use the tool on July 2, 2001, to purchase office supplies.  iBuyit eProcurement will automatically route purchase requests for approval based on our spend/approval guidelines.
+
+
+If you have any questions regarding these guidelines, please contact Tammy R. Shepperd at 713-853-6589.
+
+Thank you for your continued commitment to a strategic approach to spending.
+
+
+I nee to go to stans office apologize to steve dowd for me
+
+
+I would like to meet with all the assistants to discuss purchasing and invoice payments.  I have run detailed line items out of SAP for review of expenditures.
+Please plan to attend a brief meeting in 3960 on Monday, December 17 at 1:00 PM.  At that time we will discuss office supply purchases.  If you can not attend please let me know.
+Donna
+
+
+Ricki,  would you please forward this message to the NNG & TW teams.
+
+Last Thursday evening, Mary Lou was in a car accident and was bumped around pretty good.  She was taken to the hospital, but sent home that evening w/cuts and bruises.  The following morning, one of the doctors at the hospital called to ask her to return to the hospital for another MRI as they suspicion a brain aneurysm, which was nothing to do with the accident.  Friday evening, Mary Lou called to tell me she does in fact have a very small aneurysm, and she is to go to a neurologist today, Monday.  Either Mary Lou or one of her children will call me later today with another update, which I will forward on as soon as I am notified.  Sheila
+
+
+FYI.
+
+TJ and Claudette -- please forward to your groups.  Thanks.
+
+-----
+
+
+Please approve Dutch for ICE
+
+Enron North America Corp.
+
+
+Tomorrow morning we will be sending www.UBSWenergy.com registration information to the individuals on the attached worksheets.  The mailing will ensure that the individuals receive a guest ID in time for the February 11th go live date.  If you wish to add, delete or amend any of names of the on the list, send me an email with your changes by Friday morning if possible.  Any changes after tomorrow morning will be handle in subsequent mailings.
+
+
+Bob Shults
+EnronOnline LLC
+Houston, Texas 77002-7361
+713 853-0397
+713 825-6372 cell
+713 646-2126 fax
+bob.shults@enron.com
+
+
+I have asked the crude group to give a presentation on fuel oil supply and
+demand which will take place Wednesday July 12 at 2:15 in the big boardroom
+on the 30th floor. I would encourage everyone to come and bring any traders
+that you think would benefit from it.
+
+
+Hi,
+
+Welcome back, I trust you had a good vacation.Nothing much going on here,
+just huge price moves.
+
+Anyway, everything we well, for the most part.  As far as Alliance gas is
+concerned, the only new information is that the Aux Sable commissioning
+process will not start until Wednesday (last estimate) per Anne Buschal.  So
+make sure to mention to Hunter on Monday, as everyone else should already
+know about it.  Anne's number is 403-517-6270.  She will be calling each
+Morning.
+
+My logon and password is: pmims and louise8mom.  Please look at the Nigas
+Troy Grove Sheet that I have on my computer.
+
+My position should be around 15 long, just enough to cover rolloff for 2
+days.  If its not, please buy/sell to get me close to that number (or
+whatever is best depending on which way the market is going).
+
+
+P.S. I'm selling to Clark Refining at the Illini Point, 4,000/day @ Sitara #
+436296.  He wants us to keep them on until he calls to tell us otherwise.
+His number is 314-854-9644 Dteve Brown.
+
+I'll be back on Wednesday.
+
+
+Attached are the responses to the questions of FERC staff about EOL resulting from their visit earlier this month.  I have used the revisions from Louise and incorporated comments from Bob Butts about the value at risk discussion.  Mark Haedicke has reviewed this draft.  I would like to send these to Kim Bruno at FERC later today.
+
+An additional FYI.  Connie Lausten of the U.S. House Government Reform Committee made a request to Enron's DC office to see the trading floor operations in addition to holding a discussion about Enron Online.  She is to meet with Dave Forster and Mark Taylor on Friday, July 13th at 9am.  John Shelk from our DC office told me when people on the Hill say "Enron OnLine" they mean not only the online trading platform itself, but the broader subject of financial products and energy  trading, whether online or otherwise.  John said that the interest coming from the Hill is broader than the platform alone and reflects in many ways a lack of understanding of the benefits of what we do in this area.  We will be coordinating this with the DC office.
+
+Please call me with any comments at 37007.
+
+
+I plan on being out this Friday, Feb. 8th, and will be out of town until Sunday evening. I will have my cell phone and pager. thanks. sj
+
+
+As discussed in the California conference call this morning, I have prepared
+a bullet-point summary of the CERA Special Report titled Beyond the
+California Power Crisis: Impact, Solutions, and Lessons.If you have any
+questions, my phone number is 713 853-3170.
+
+
+Attached are the revised files.  I understand that you will provide this to
+Shankman.  Please let me know if you need anything else from me or if I can
+help explain it to Jeff.
+
+
+If you take my var away from me at least you owe me a drink!!!
+
+-----
+
+
+Legal folks -- please let me know of any other legal people who should be
+added to interconnection issue emails.
+On May 16, FERC clarified its policy regarding credits for network upgrades
+associated with the interconnection of a generating facility -- all network
+upgrade costs (the cost of all facilities from the point where the generator
+connects to the grid), including those necessary to remedy short-circuit and
+stability problems, should be credited back to the customer that funded the
+upgrades once the delivery service begins.
+Once a customer signs up for transmission, then the transmission provider is
+limited to charging the higher of the expansion cost or an embedded cost rate.
+Generally, Enron has not procured transmission at the time of interconnection
+and therefore, may be required to pay the network upgrades at the time of
+interconnection; however, the order clarifies that a credit should be
+available to the interconnecting customer or a third party that contracts for
+transmission away from the generator.
+Kinder Morgan v. Consumers Energy  (Docket No. ER01-1587-000)
+
+
+Area		Oct.		YTD
+Southeast	-0.05		+0.05
+Southwest	-0.71		-0.05
+North		+0.08		-0.02
+
+
+Total		-0.47		-0.02
+
+
+Because I am so kind:
+
+Greg Trentham
+165 Harding Rd
+Glen Rock, NJ 07452
+
+Jack Cogen
+60 East End Ave #25A
+NY, NY 10028
+
+Brian Tracey
+19 Heartstone Lane
+Wilton, CT 06897
+
+Brian Manolis
+81 Forest Ave
+Caldwell, NJ 07006
+
+-----
+
+
+I am in 50M if you need me.
+
+
+Let's meet sometime this morning (if you are in) and allow me to catch you up on an a/r discussion that I had with Dave Neubauer last week regarding the clean up of our older receivables.  I will be meeting with Lynn from 9:00 - 10:00 so possibly we can meet right after that.  We'll give stop by and let you know.
+
+
+-----
